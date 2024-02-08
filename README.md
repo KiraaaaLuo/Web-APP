@@ -86,13 +86,3 @@ And that is all changes I have made.
 The link to my app is https://i6.cims.nyu.edu/~kl3647/web-app-KiraaaLuo/flask.cgi/
 
 Thanks for watching :) 
-
-## Personal Info
-This is an individual work
-
-the full name: Kira Luo
-
-NYU Net ID:kl3647
-
-Links to GitHub accounts: https://github.com/dbdesign-assignments-spring2022/web-app-KiraaaLuo
-
